@@ -95,6 +95,7 @@
     <Content Include="images\asp.net.png" />
     <Content Include="images\csharp.png" />
     <Content Include="images\linq.png" />
+    <Content Include="images\Sql.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
